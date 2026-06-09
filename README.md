@@ -45,6 +45,7 @@ THE AVERAGE RAINFALL AMOUNT = 2.12 INCHES
 ## Screenshot
 
 ![Program Output](output.png)
+![Program Output](outputTxt.png)
 
 ---
 
